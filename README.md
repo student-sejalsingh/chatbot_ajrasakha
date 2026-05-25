@@ -46,6 +46,8 @@ The chatbot intelligently prioritizes responses:
 Verified expert answers from the Golden Dataset
 Agricultural best practices from PoP
 AI-generated responses using LLMs
+
+
 ⚡ Real-Time Chat Experience
 
 Provides instant responses through a modern conversational interface powered by LibreChat.
@@ -118,6 +120,8 @@ Sarvam AI API (Translation + Speech-to-Text)
 Firebase Authentication
 Infrastructure
 MCP (Model Context Protocol) Servers
+
+
 🔍 How It Works
 Step 1 — Farmer Asks a Question
 
@@ -152,6 +156,8 @@ Trusted expert-backed information
 Easy-to-use chat experience
 Continuous improvement through expert review
 Faster decision-making during critical farming situations
+
+
 📈 Future Goals
 Image-based crop disease detection
 Weather-aware farming recommendations
@@ -161,10 +167,14 @@ Integration with government agricultural schemes
 Farmer analytics dashboard
 AI-powered crop planning assistant
 Smart irrigation and fertilizer recommendations
+
+
 🔐 Authentication & Security
 Secure farmer authentication using Firebase
 Protected chat sessions
 Structured agricultural data access through MCP servers
+
+
 🤝 Contribution
 
 Contributions, ideas, and feedback are always welcome.
@@ -175,6 +185,7 @@ Fork the repository
 Create a feature branch
 Commit your changes
 Submit a pull request
+
 📌 Project Status
 
 🚧 Currently under active development and research.
